@@ -1,0 +1,3 @@
+grid_name|total_sales
+1|4
+2|4
